@@ -4,7 +4,7 @@ An exploratory data analysis of 5,000 NYC 311 Service Requests, built entirely i
 
 ## Dashboard Preview
 
-![NYC 311 Service Requests Dashboard](Dashboard .PNG)
+![NYC 311 Service Requests Dashboard](Dashboard.PNG)
 
 ## Objectives
 
