@@ -75,19 +75,23 @@ NYC-311-Service-Requests-Analysis/
 
 ## Key Findings
 
-1. Brooklyn recorded the highest complaint volume.
-2. Noise-related complaints were the most frequently reported.
-3. 99.3% of sampled complaints were closed.
-4. NYPD handled the largest number of complaints.
-5. Complaint volumes varied significantly by hour of day.
-6. Average resolution time differed substantially across agencies.
+1. Brooklyn recorded the highest number of service requests, followed by Queens and Manhattan.
+2. Noise-related complaints were the most frequently reported complaint category in the sample.
+3. 4,964 out of 5,000 complaints were closed, representing approximately 99.3% of the sample.
+4. NYPD handled the largest number of complaints among the agencies analyzed.
+5. Complaint volumes varied considerably throughout the day, with noticeable peaks during daytime and afternoon hours.
+6. Agency workload and resolution performance varied considerably, indicating differences in both complaint volume and service resolution times.
+
 
 ## Business Recommendations
 
-- Prioritize resources for high-volume complaint types.
-- Monitor agencies with longer average resolution times.
-- Align staffing with peak complaint submission hours.
-- Maintain the high complaint closure rate through continuous performance monitoring.
+- Prioritize resources and response capacity in high-volume boroughs such as Brooklyn and Queens.
+- Focus operational planning on the most frequently reported complaint categories, particularly noise-related complain.
+- Monitor agencies handling the highest complaint volumes to ensure adequate staffing and service capacity.
+- Investigate agencies with  longer average resolution  times to identify potential process or resource constraints.
+- Align staffing and operational resources with periods of higher complaint activity throughout the day.
+- Continue monitoring closure rates while investigating  the relatively small proportion of unresolved requests.
+
 
 ## How to Use
 
@@ -99,8 +103,8 @@ NYC-311-Service-Requests-Analysis/
 ## Excel Skills Demonstrated
 
 - Power Query
-- PivotTables
-- PivotCharts
+- Pivot Tables
+- Pivot Charts
 - Slicers
 - Dynamic KPI cards (linked to PivotTable cells)
 - Dashboard design
